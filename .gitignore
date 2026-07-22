@@ -1,15 +1,10 @@
 .env
-secrets.confprinter-[0-9]*_[0-9]*.cfg
+secrets.conf
 *.swp
 *.tmp
-*.bak
 printer-[0-9]*_[0-9]*.cfg
-*.bkp
 *.bak
-*.csv
 *.bkp
 *.csv
 *.zip
-*.zip
-ShakeTune_results
 ShakeTune_results
