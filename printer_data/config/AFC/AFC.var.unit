@@ -11,7 +11,7 @@
             "map": "T1",
             "load": true,
             "prep": true,
-            "selector": false,
+            "selector": true,
             "tool_loaded": true,
             "loaded_to_hub": true,
             "material": "PlA",
@@ -28,7 +28,7 @@
             "runout_lane": null,
             "filament_status": "In Tool",
             "filament_status_led": "#0000ff",
-            "status": "Tooled",
+            "status": "Loaded",
             "dist_hub": 841.37,
             "td1_data": {}
         },
