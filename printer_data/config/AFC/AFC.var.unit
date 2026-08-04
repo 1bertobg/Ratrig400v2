@@ -43,7 +43,7 @@
             "map": "T2",
             "load": false,
             "prep": true,
-            "selector": false,
+            "selector": true,
             "tool_loaded": false,
             "loaded_to_hub": false,
             "material": "",
