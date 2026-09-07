@@ -107,7 +107,7 @@
             "map": "T4",
             "load": false,
             "prep": false,
-            "selector": true,
+            "selector": false,
             "tool_loaded": false,
             "loaded_to_hub": false,
             "material": "",
@@ -140,7 +140,7 @@
             }
         },
         "bypass": {
-            "enabled": false
+            "enabled": 0
         }
     }
 }
